@@ -37,7 +37,7 @@ while($res = mysqli_fetch_array($result))
         <title>KEMASKINI MAKLUMAT</title>
     </head>
     <body>
-    <center> <h2>KEMASKINI MAKLUMAT BARANGAN DAN HARGA</h2>
+    <center> <h2>KEMASKINI MAKLUMAT BARANGAN DAN MAKLUMAT</h2>
         <fieldset>
             <form name="form1" method="post" action="edit.php">
                 <table border="0">
