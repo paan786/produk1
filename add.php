@@ -24,7 +24,7 @@ else
         <title> TAMBAH REKOD </title>
     </head>
     <body>
-    <center> <h2>TAMBAH REKOD BARANGAN DAN HARGA</h2>
+    <center> <h2>TAMBAH REKOD BARANGAN</h2>
     <fieldset>
     <form action="add.php" method="post" name="form1">
         <table witdh="25%" border="0">
